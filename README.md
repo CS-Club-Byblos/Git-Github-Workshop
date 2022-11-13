@@ -1,4 +1,5 @@
-# Git & Github Workshop ![Git logo](https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png) 
+# Git & Github Workshop <img src ="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt ="Git logo" width = 35 height = 35/>
+
 
 ## Introduction 
 
