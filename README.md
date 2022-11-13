@@ -17,7 +17,7 @@
 
 ## Git & Github Setups
 
-------------------------------
+
 - To download git, click on **[this link](https://git-scm.com/downloads)** and download it for your respective operating system
 - To make a Github account click **[here](https://github.com/)** login in with an account if you have one or sign up and make one.
 - You can get Github Pro and many more bonuses and benefits for by following the steps in our **[Tips & Tricks repository](https://github.com/CS-Club-Byblos/Tips-Tricks#University-email-benefits)**
@@ -25,14 +25,14 @@
 ------------------------------
 ## Presentation
 
-------------------------------
+
 
 - This is the **[presentation link](https://www.canva.com/design/DAFRkBtwN0U/Gnjg7r502YUUg8oaotA1pQ/view?utm_content=DAFRkBtwN0U&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)**, note that this presentation is cool as hell because it was made in canva.
 
 ------------------------------
 ## Generators for Profile Customization
 
-------------------------------
+
 - **[GPRG](https://rahuldkjain.github.io/gh-profile-readme-generator/)**
 - **[PROFILINATOR](https://profilinator.rishav.dev/)**
 - **[GPRM](https://gprm.itsvg.in/)**
