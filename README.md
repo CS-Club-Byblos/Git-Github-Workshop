@@ -1,4 +1,5 @@
 # Git & Github Workshop
+ ![Git logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgit-scm.com%2Fdownloads%2Flogos&psig=AOvVaw38Us1ankEu48KfKTvj7ZW_&ust=1668451279976000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJiJtsHnq_sCFQAAAAAdAAAAABAD)
 
 ## Introduction 
 
