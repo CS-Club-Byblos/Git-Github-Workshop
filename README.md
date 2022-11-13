@@ -7,16 +7,16 @@
 - Feel free to raise any issue with the resources 
 
 ## Table of Content
-- **[Git & Github Setups](#Git-&-Github-Setups)**
+- **[Git and Github Setups](#Git-and-Github-Setups)**
 - **[Presentation](#Presentation)**
 - **[List of Generators for Profile Customization](#Generators-for-Profile-Customization)**
 - **[Profile Samples](#Profile-Samples)**
-- **[MarkDown Cheats & Helpfull Sources](#MarkDown-Cheats-&-Helpfull-Sources)**
+- **[MarkDown Cheats and Helpfull Sources](#MarkDown-Cheats-and-Helpfull-Sources)**
 
 
 ------------------------------
 
-### **Git & Github Setups**
+### **Git and Github Setups**
 
 ------------------------------
 - To download git, click on **[this link](https://git-scm.com/downloads)** and download it for your respective operating system
@@ -49,7 +49,7 @@ Use these samples to inspire from and make your own
 - **[Georgio's profile](https://github.com/Ghantoos7)**
 
 ------------------------------
-### **MarkDown Cheats & Helpfull Sources**
+### **MarkDown Cheats and Helpfull Sources**
 
 ------------------------------
 This list is for the peeps that like to code their README hands on, the list contains resorces to use to do so
