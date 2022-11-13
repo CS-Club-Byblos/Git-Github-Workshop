@@ -11,7 +11,7 @@
 - **[Presentation](#Presentation)**
 - **[List of Generators for Profile Customization](#Generators-for-Profile-Customization)**
 - **[Profile Samples](#Profile-Samples)**
-- **[List of MarkDown Cheats and Helpfull Sources](#MarkDown-Cheats-&-Helpfull-Sources)**
+- **[MarkDown Cheats & Helpfull Sources](#MarkDown-Cheats-&-Helpfull-Sources)**
 
 
 ------------------------------
