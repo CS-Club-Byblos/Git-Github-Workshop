@@ -48,6 +48,7 @@ Use these samples to inspire from and make your own
 - **[big sample](https://eddiehubcommunity.github.io/awesome-github-profiles/profiles)** 
 - **[Charbel's profile](https://github.com/Murf-y)**
 - **[Georgio's profile](https://github.com/Ghantoos7)**
+- **[Tia's profile](https://github.com/tiaelhelou)**
 
 ------------------------------
 ### **MarkDown Cheats and Helpfull Sources**
